@@ -1,2 +1,2 @@
 # SigmasOnly
-Thank you Kennedy
+Deployable ipnyb file
